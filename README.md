@@ -1,7 +1,7 @@
 ![logo](https://github.com/Varusara/Varsha-N/blob/main/_Black%20and%20Green%20Futuristic%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Varsha N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" alt = "coding" width ="400" src = "https://github.com/Varusara/Varusara/blob/main/images.jpg"
+<img align = "right" alt = "coding" width ="400" src ="https://github.com/Varusara/Varusara/blob/main/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varusara&label=Profile%20views&color=0e75b6&style=flat" alt="varusara" /> </p>
 
 - 🔭 I’m currently working on **full stack web development**
